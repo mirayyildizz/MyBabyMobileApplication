@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "976468232839",
+    "project_id": "mybabyapplication-d536c",
+    "storage_bucket": "mybabyapplication-d536c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976468232839:android:7e9322f1e4eb136068c622",
+        "android_client_info": {
+          "package_name": "com.miray.mybaby_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976468232839-bt0bokaebuek8d9kkjriq6135r64tttr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-0xSOzKiFrV_NXimY1U7zGc7Juz9Z9ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976468232839-bt0bokaebuek8d9kkjriq6135r64tttr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
